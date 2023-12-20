@@ -1,4 +1,4 @@
-# Coffee Sales Project
+# Coffee Orders Project
 This is a project that creates an interactive dashboard in Excel to showcase various charts and slicers for effective data analysis.
 The project walks you through the following:
 - A line chart for total sales over time
